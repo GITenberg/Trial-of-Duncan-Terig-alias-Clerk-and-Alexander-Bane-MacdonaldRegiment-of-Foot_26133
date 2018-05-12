@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26133#Trial-of-Duncan-Terig-alias-Clerk-and-Alexander-Bane-MacdonaldRegiment-of-Foot
 gutenberg_issued: '2008-07-26'
 gutenberg_type: Text
 identifiers:
