@@ -1,0 +1,39 @@
+_repo: Trial-of-Duncan-Terig-alias-Clerk-and-Alexander-Bane-MacdonaldRegiment-of-Foot_26133
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2008-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26133'
+  lccn: '2006584272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KD'
+- !lcsh 'Trials (Murder) -- Scotland'
+- !lcsh 'Macdonald, Alexander Bane -- Trials, litigation, etc.'
+- !lcsh 'Terig, Duncan -- Trials, litigation, etc.'
+title: 'Trial of Duncan Terig, alias Clerk, and Alexander Bane Macdonald
+
+  for the Murder of Arthur Davis, Sergeant in General Guise''s
+
+  Regiment of Foot'
+url: http://www.gutenberg.org/ebooks/26133
